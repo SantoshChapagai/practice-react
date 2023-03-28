@@ -1,0 +1,13 @@
+.box {
+  background-color: azure;
+  height: 20vh;
+  width: 20vw;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  margin: 1rem;
+  padding: 1rem;
+  border-radius: 10px;
+  box-shadow: 0 0 20px skyblue;
+
+}
